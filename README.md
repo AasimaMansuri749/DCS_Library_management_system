@@ -41,29 +41,29 @@ Create a database library_management_system.
 ---
 
 ##  Admin (User) Screens
-
-###  Dashboard
-
-
+### Home Page
+<img src="ScreenShots/HomePage.png" width="600"/>
+###  Admin Dashboard
+<img src="ScreenShots/adminDashBoard.png" width="600"/>
 ###  Transaction Management
-
+<img src="ScreenShots/transaction.png" width="600"/>
 ###  User Management
-
+<img src="ScreenShots/user.png" width="600"/>
 ###  Book Management
-
+<img src="ScreenShots/books.png" width="600"/>
 
 ###  Subject Management
-
+<img src="ScreenShots/subjects.png" width="600"/>
 
 ###  Reports Management
 
+<img src="ScreenShots/report.png" width="600"/>
+###  Student/Faculty Screens
 
-##  Student/Faculty Screens
-
-<img src="ScreenShot/HomeScreen.png" width="600"/>
-<img src="ScreenShot/searchpage.png" width="600"/>
+<img src="ScreenShot/SearchPage.png" width="600"/>
 <img src="ScreenShot/bookList.png" width="600"/>
+<img src="ScreenShot/BookDetail.png" width="600"/>
 <img src="ScreenShot/detailsbook.png" width="600"/>
-<img src="ScreenShot/wishlist.png" width="600"/>
-<img src="ScreenShot/bookrequest.png" width="600"/>
-<img src="ScreenShot/transactionhistory.png" width="600"/>
+<img src="ScreenShot/Wishlist.png" width="600"/>
+### Department Dashboard
+<img src="ScreenShot/DeptDashBoard.png" width="600"/>
