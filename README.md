@@ -60,10 +60,10 @@ Create a database library_management_system.
 <img src="ScreenShots/report.png" width="600"/>
 ###  Student/Faculty Screens
 
-<img src="ScreenShot/SearchPage.png" width="600"/>
-<img src="ScreenShot/bookList.png" width="600"/>
-<img src="ScreenShot/BookDetail.png" width="600"/>
-<img src="ScreenShot/detailsbook.png" width="600"/>
-<img src="ScreenShot/Wishlist.png" width="600"/>
+<img src="ScreenShots/SearchPage.png" width="600"/>
+<img src="ScreenShots/bookList.png" width="600"/>
+<img src="ScreenShots/BookDetail.png" width="600"/>
+<img src="ScreenShots/detailsbook.png" width="600"/>
+<img src="ScreenShots/Wishlist.png" width="600"/>
 ### Department Dashboard
-<img src="ScreenShot/DeptDashBoard.png" width="600"/>
+<img src="ScreenShots/DeptDashBoard.png" width="600"/>
