@@ -40,28 +40,28 @@ Create a database library_management_system.
 
 ---
 
-##  Admin (User) Screens
+## Admin (User) Screens
 ### Home Page
 <img src="ScreenShots/HomePage.png" width="600"/>
-###  Admin Dashboard
+### Admin Dashboard
 <img src="ScreenShots/adminDashBoard.png" width="600"/>
-###  Transaction Management
+### Transaction Management
 <img src="ScreenShots/transaction.png" width="600"/>
-###  User Management
+### User Management
 <img src="ScreenShots/user.png" width="600"/>
-###  Book Management
+### Book Management
 <img src="ScreenShots/books.png" width="600"/>
 
-###  Subject Management
+### Subject Management
 <img src="ScreenShots/subjects.png" width="600"/>
 
 ###  Reports Management
 <img src="ScreenShots/reports.png" width="600"/>
-###  Student/Faculty Screens
+### Student/Faculty Screens
 
 <img src="ScreenShots/SearchPage.png" width="600"/>
 <img src="ScreenShots/bookList.png" width="600"/>
 <img src="ScreenShots/BookDetail.png" width="600"/>
 <img src="ScreenShots/Wishlist.png" width="600"/>
 ### Department Dashboard
-<img src="ScreenShots/DeptDashBoard.png" width="600"/>
+<img src="ScreenShots/deptDashBoard.png" width="600"/>
