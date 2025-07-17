@@ -49,7 +49,7 @@ Deploy the project on Apache Tomcat Server.
 
 Run the server and open in browser:
 http://localhost:8080/DCS_Library_management_system
-📸 Screenshots
+#📸 Screenshots
 🧑‍💼 Admin / Librarian Screens
 <table> <tr> <td><img src="ScreenShots/HomePage.png" width="300"/><br>Home Page</td> <td><img src="ScreenShots/adminDashBoard.png" width="300"/><br>Admin Dashboard</td> </tr> <tr> <td><img src="ScreenShots/transaction.png" width="300"/><br>Transaction Management</td> <td><img src="ScreenShots/user.png" width="300"/><br>User Management</td> </tr> <tr> <td><img src="ScreenShots/books.png" width="300"/><br>Book Management</td> <td><img src="ScreenShots/subjects.png" width="300"/><br>Subject Management</td> </tr> <tr> <td><img src="ScreenShots/reports.png" width="300"/><br>Report Management</td> <td><img src="ScreenShots/deptDashBoard.png" width="300"/><br>Department Dashboard</td> </tr> </table>
 👩‍🎓 Student/Faculty Screens
