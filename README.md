@@ -44,41 +44,18 @@ Create a database library_management_system.
 
 ###  Dashboard
 
-<img src="ScreenShot/dashboard.png" width="600"/>
-<img src="ScreenShot/homepage.png" width="600"/>
-<img src="ScreenShot/homepage2.png" width="600"/>
-<img src="ScreenShot/bookcollect.png" width="600"/>
 
 ###  Transaction Management
 
-<img src="ScreenShot/transacrtion.png" width="600"/>
-
 ###  User Management
-
-<img src="ScreenShot/usermanagement.png" width="600"/>
-<img src="ScreenShot/addUser.png" width="600"/>
-<img src="ScreenShot/edituser.png" width="600"/>
-<img src="ScreenShot/userdetailsAdmin.png" width="600"/>
-<img src="ScreenShot/filters.png" width="600"/>
 
 ###  Book Management
 
-<img src="ScreenShot/books.png" width="600"/>
-<img src="ScreenShot/addBook.png" width="600"/>
-<img src="ScreenShot/bookdetailAdmin.png" width="600"/>
-<img src="ScreenShot/bookdetailAdmin.png" width="600"/>
-<img src="ScreenShot/bookdetailAdmin.png" width="600"/>
 
 ###  Subject Management
 
-<img src="ScreenShot/subject.png" width="600"/>
-<img src="ScreenShot/editsubject.png" width="600"/>
 
 ###  Reports Management
-
-<img src="ScreenShot/reports.png" width="600"/>
-<img src="ScreenShot/reportview.png" width="600"/>
-<img src="ScreenShot/pdfmaking.png" width="600"/>
 
 
 ##  Student/Faculty Screens
