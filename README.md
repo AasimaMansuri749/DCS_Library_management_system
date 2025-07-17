@@ -47,8 +47,6 @@ The **DCS Library Management System** is a web-based application designed to str
 
 4. Deploy the project on Apache Tomcat Server.
 
-Run the server and open in browser:
-http://localhost:8080/DCS_Library_management_system
 #  Screenshots
 ## Admin / Librarian Screens
 <table> 
