@@ -55,10 +55,10 @@ Create a database library_management_system.
 ### Subject Management
 <img src="ScreenShots/subjects.png" width="600"/>
 
-###  Reports Management
+### Reports Management
 <img src="ScreenShots/reports.png" width="600"/>
-### Student/Faculty Screens
 
+### Student/Faculty Screens
 <img src="ScreenShots/SearchPage.png" width="600"/>
 <img src="ScreenShots/bookList.png" width="600"/>
 <img src="ScreenShots/BookDetail.png" width="600"/>
